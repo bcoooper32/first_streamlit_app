@@ -1,10 +1,10 @@
 import streamlit
 
-streamlit.title('Data Visualisation I')
+streamlit.title('Health Diner')
 
-streamlit.header('Painting Type')
-streamlit.text('Oil')
-streamlit.text('Acrylic')
-streamlit.text('Spray')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
 
-streamlit.header('View Type')
+streamlit.header('Smoothie Builder')
