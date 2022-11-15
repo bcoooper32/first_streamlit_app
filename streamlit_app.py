@@ -6,3 +6,5 @@ streamlit.header('Painting Type')
 streamlit.text('Oil')
 streamlit.text('Acrylic')
 streamlit.text('Spray')
+
+streamlit.header('View Type')
